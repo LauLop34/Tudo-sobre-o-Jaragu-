@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: green;
+    width: 100vw;
+    color: white;
+    text-align: center;
+    position: fixed;
+    z-index: 200;
+}
+
+header div{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px 20px;
+
+}
+
+#foto1{
+    width: 100%;
+}
+
+.Título{
+    position: absolute;
+    top: 25%;
+    right: 85%;
+
+
+}
+
+.Texto{
+    position: absolute;
+
+}
